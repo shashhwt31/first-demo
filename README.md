@@ -1,3 +1,3 @@
 # first-demo
-this is my first git repository
-AUTHOR-Shashwat Singh Patel
+this is my first git repository.
+Author-Shashwat Singh Patel
