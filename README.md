@@ -1,4 +1,4 @@
 # first-demo
 this is my first git repository.
 <br>
-Author-Shashwat Singh Patel
+Author-Shashwat Singh Patel (NSUT)
